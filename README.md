@@ -63,7 +63,9 @@ yarn dev
 
 Agora você vai ver a mensagem no terminal ou cmd
 
-![Solid](https://github.com/thiagolazaro/nodejs-typescript-base/blob/main/projeto-funcionando.jpg)
+```
+Projeto funcionando!
+```
 
 Parabéns seu projeto está funcinando!
 
