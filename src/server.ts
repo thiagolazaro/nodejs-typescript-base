@@ -3,5 +3,5 @@ import express from "express";
 const app = express();
 
 app.listen(3000, () => {
-  console.log(`Projeto ${process.env.PROJECT_NAME} funcionando!`);
+  console.log(`Projeto funcionando!`);
 })
